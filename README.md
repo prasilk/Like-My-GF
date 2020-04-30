@@ -2,7 +2,7 @@
 This is an auto-robot to like my girlfriend's post on Instagram.
 
 ## Why This?
-My girlfriend always complains that I don't care about what she's doing, I don't like her post on Instagram / Wechat / Weibo... and I don't comment on her posts, bla bla bla.
+My girlfriend always complains that I don't care about what she's doing, I don't like her post on Instagram... and I don't comment on her posts, bla bla bla.
 
 Being a programmer, I don't really have much ~~interest~~ time to review every social network. So I build this. Although now she knows that I'm using this to like her post. But she's pretty happy about it (don't ask me why) and never complained again. So I'm very happy with this tool.
 
@@ -24,5 +24,3 @@ All of these can be installed from pip install
 2. Support more social media. Weibo, Wechat, Facebook...(This gonna be endless)
 3. Maybe if anyone else want to use this, I can setup a web api and allow others to register their target. I can setup an engine to do it.
 
-## Note
-As I used to work on Instagram teams, it wasn't really in my interest to update this repo anymore because the little convinience that I offer might be abused by spammers and hurt more people, (plus add more work on me and my teammates 😜).
